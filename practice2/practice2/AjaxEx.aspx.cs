@@ -19,7 +19,8 @@ namespace practice2
             {
                 Bind_ddlCountry();
             }
-                        
+            Response.Write("Hello");  
+            Response.Write("Hello");           
         }
         public void Bind_ddlCountry()
         {
