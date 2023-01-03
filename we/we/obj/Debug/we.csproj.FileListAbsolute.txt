@@ -1,0 +1,4 @@
+c:\users\sshab\onedrive\documents\visual studio 2010\Projects\we\we\bin\we.dll
+c:\users\sshab\onedrive\documents\visual studio 2010\Projects\we\we\bin\we.pdb
+c:\users\sshab\onedrive\documents\visual studio 2010\Projects\we\we\obj\Debug\we.dll
+c:\users\sshab\onedrive\documents\visual studio 2010\Projects\we\we\obj\Debug\we.pdb

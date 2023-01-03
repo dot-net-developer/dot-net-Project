@@ -1,0 +1,4 @@
+c:\users\sshab\onedrive\documents\visual studio 2010\Projects\free\free\bin\free.dll
+c:\users\sshab\onedrive\documents\visual studio 2010\Projects\free\free\bin\free.pdb
+c:\users\sshab\onedrive\documents\visual studio 2010\Projects\free\free\obj\Debug\free.dll
+c:\users\sshab\onedrive\documents\visual studio 2010\Projects\free\free\obj\Debug\free.pdb

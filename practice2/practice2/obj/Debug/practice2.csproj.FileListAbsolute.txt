@@ -1,0 +1,5 @@
+C:\Users\sshab\onedrive\documents\visual studio 2010\Projects\practice2\practice2\bin\practice2.dll
+C:\Users\sshab\onedrive\documents\visual studio 2010\Projects\practice2\practice2\bin\practice2.pdb
+C:\Users\sshab\onedrive\documents\visual studio 2010\Projects\practice2\practice2\obj\Debug\practice2.dll
+C:\Users\sshab\onedrive\documents\visual studio 2010\Projects\practice2\practice2\obj\Debug\practice2.pdb
+C:\Users\sshab\onedrive\documents\visual studio 2010\Projects\practice2\practice2\obj\Debug\practice2.csprojResolveAssemblyReference.cache

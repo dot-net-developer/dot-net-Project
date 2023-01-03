@@ -1,0 +1,4 @@
+c:\users\sshab\onedrive\documents\visual studio 2010\Projects\miniproject\miniproject\bin\miniproject.dll
+c:\users\sshab\onedrive\documents\visual studio 2010\Projects\miniproject\miniproject\bin\miniproject.pdb
+c:\users\sshab\onedrive\documents\visual studio 2010\Projects\miniproject\miniproject\obj\Debug\miniproject.dll
+c:\users\sshab\onedrive\documents\visual studio 2010\Projects\miniproject\miniproject\obj\Debug\miniproject.pdb

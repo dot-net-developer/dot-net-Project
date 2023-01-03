@@ -1,0 +1,5 @@
+c:\users\sshab\onedrive\documents\visual studio 2010\Projects\Stud_reg\Stud_reg\bin\Stud_reg.dll
+c:\users\sshab\onedrive\documents\visual studio 2010\Projects\Stud_reg\Stud_reg\bin\Stud_reg.pdb
+c:\users\sshab\onedrive\documents\visual studio 2010\Projects\Stud_reg\Stud_reg\obj\Debug\Stud_reg.dll
+c:\users\sshab\onedrive\documents\visual studio 2010\Projects\Stud_reg\Stud_reg\obj\Debug\Stud_reg.pdb
+C:\Users\sshab\onedrive\documents\visual studio 2010\Projects\Stud_reg\Stud_reg\obj\Debug\Stud_reg.csprojResolveAssemblyReference.cache

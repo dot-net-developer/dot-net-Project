@@ -1,0 +1,4 @@
+c:\users\sshab\onedrive\documents\visual studio 2010\Projects\Prac_1\Prac_1\bin\Prac_1.dll
+c:\users\sshab\onedrive\documents\visual studio 2010\Projects\Prac_1\Prac_1\bin\Prac_1.pdb
+c:\users\sshab\onedrive\documents\visual studio 2010\Projects\Prac_1\Prac_1\obj\Debug\Prac_1.dll
+c:\users\sshab\onedrive\documents\visual studio 2010\Projects\Prac_1\Prac_1\obj\Debug\Prac_1.pdb

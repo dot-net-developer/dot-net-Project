@@ -1,0 +1,5 @@
+c:\users\sshab\onedrive\documents\visual studio 2010\Projects\task\task\bin\task.dll
+c:\users\sshab\onedrive\documents\visual studio 2010\Projects\task\task\bin\task.pdb
+c:\users\sshab\onedrive\documents\visual studio 2010\Projects\task\task\obj\Debug\task.dll
+c:\users\sshab\onedrive\documents\visual studio 2010\Projects\task\task\obj\Debug\task.pdb
+C:\Users\sshab\onedrive\documents\visual studio 2010\Projects\task\task\obj\Debug\task.csprojResolveAssemblyReference.cache

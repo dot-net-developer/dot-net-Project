@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="C:\Users\sshab\OneDrive\Desktop\Task\Project" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Project" publishMethod="FileSystem" replaceMatchingFiles="True" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="Web.config" publishTime="12/14/2022 09:29:22" />
+    <file relUrl="Images/sport.JPG" publishTime="12/13/2022 18:59:34" />
+    <file relUrl="Login.aspx" publishTime="12/12/2022 19:32:42" />
+    <file relUrl="Syllabus.aspx" publishTime="12/12/2022 19:28:06" />
+    <file relUrl="Images/school.jpg" publishTime="12/13/2022 18:59:26" />
+    <file relUrl="Teacher.aspx" publishTime="12/12/2022 19:25:24" />
+    <file relUrl="Images/yoga.JPG" publishTime="12/13/2022 18:59:34" />
+    <file relUrl="Gallery.aspx" publishTime="12/12/2022 19:25:42" />
+    <file relUrl="Attendance.aspx" publishTime="12/12/2022 19:27:23" />
+    <file relUrl="Images/science.JPG" publishTime="12/13/2022 18:59:34" />
+    <file relUrl="Contact.aspx" publishTime="12/12/2022 19:26:26" />
+    <file relUrl="Home.aspx" publishTime="12/13/2022 19:03:29" />
+    <file relUrl="bin/Project.pdb" publishTime="12/13/2022 19:02:16" />
+    <file relUrl="Result.aspx" publishTime="12/12/2022 19:28:46" />
+    <file relUrl="Images/Kite.JPG" publishTime="12/13/2022 18:59:16" />
+    <file relUrl="Admission.aspx" publishTime="12/12/2022 19:29:34" />
+    <file relUrl="Images/mind.JPG" publishTime="12/13/2022 18:59:20" />
+    <file relUrl="bin/Project.dll" publishTime="12/13/2022 19:02:17" />
+    <file relUrl="Images/rally.JPG" publishTime="12/13/2022 18:59:23" />
+    <file relUrl="Prayer.aspx" publishTime="12/12/2022 19:30:15" />
+    <file relUrl="About.aspx" publishTime="12/12/2022 19:25:26" />
+    <file relUrl="Images/islam.JPG" publishTime="12/13/2022 18:59:16" />
+    <file relUrl="Mission.aspx" publishTime="12/12/2022 19:32:09" />
+  </publishProfile>
+</publishData>

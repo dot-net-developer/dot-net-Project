@@ -1,0 +1,5 @@
+c:\users\sshab\onedrive\documents\visual studio 2010\Projects\Project\Project\bin\Project.dll
+c:\users\sshab\onedrive\documents\visual studio 2010\Projects\Project\Project\bin\Project.pdb
+c:\users\sshab\onedrive\documents\visual studio 2010\Projects\Project\Project\obj\Debug\Project.dll
+c:\users\sshab\onedrive\documents\visual studio 2010\Projects\Project\Project\obj\Debug\Project.pdb
+C:\Users\sshab\onedrive\documents\visual studio 2010\Projects\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache

@@ -1,0 +1,4 @@
+c:\users\sshab\onedrive\documents\visual studio 2010\Projects\boot\boot\bin\boot.dll
+c:\users\sshab\onedrive\documents\visual studio 2010\Projects\boot\boot\bin\boot.pdb
+c:\users\sshab\onedrive\documents\visual studio 2010\Projects\boot\boot\obj\Debug\boot.dll
+c:\users\sshab\onedrive\documents\visual studio 2010\Projects\boot\boot\obj\Debug\boot.pdb

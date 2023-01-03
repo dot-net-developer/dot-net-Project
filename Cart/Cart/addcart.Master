@@ -1,0 +1,57 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="addcart.master.cs" Inherits="Cart.addcart" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .style1
+        {
+            width: 1234px;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div style="background-color:#FFFBD6">
+    <table style="width: 1454px">
+    <tr>
+    <td class="style1">
+        <asp:Menu ID="Menu1" runat="server" 
+            DynamicHorizontalOffset="2" Font-Names="Verdana" Font-Size="1.8em" 
+            ForeColor="#990000" Orientation="Horizontal" StaticSubMenuIndent="10px">
+            <DynamicHoverStyle BackColor="#990000" ForeColor="White" />
+            <DynamicMenuItemStyle HorizontalPadding="50px" VerticalPadding="20px" />
+            <DynamicMenuStyle BackColor="#FFFBD6" />
+            <DynamicSelectedStyle BackColor="#FFCC66" />
+            <Items>
+                <asp:MenuItem NavigateUrl="~/Home.aspx" Text="Home" Value="Home"></asp:MenuItem>
+                <asp:MenuItem NavigateUrl="~/About.aspx" Text="About" Value="About">
+                </asp:MenuItem>
+                <asp:MenuItem NavigateUrl="~/Contact.aspx" Text="Contact" Value="Contact">
+                </asp:MenuItem>
+                <asp:MenuItem NavigateUrl="~/Shop.aspx" Text="Shop" Value="Shop"></asp:MenuItem>
+            </Items>
+            <StaticHoverStyle BackColor="#990000" ForeColor="White" />
+            <StaticMenuItemStyle HorizontalPadding="100px" VerticalPadding="20px" />
+            <StaticSelectedStyle BackColor="#FFCC66" />
+        </asp:Menu>
+    </td>
+    <td align="right">    
+        <img alt="" src="Image/cart.png" height="50px" width="50px"/>
+        <asp:Label ID="lblValue" runat="server" Font-Size="XX-Large"></asp:Label>
+    </td>
+    </tr>
+    </table>    
+    </div>
+    <div>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+</body>
+</html>

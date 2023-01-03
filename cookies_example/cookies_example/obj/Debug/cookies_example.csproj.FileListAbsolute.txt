@@ -1,0 +1,5 @@
+c:\users\sshab\onedrive\documents\visual studio 2010\Projects\cookies_example\cookies_example\bin\cookies_example.dll
+c:\users\sshab\onedrive\documents\visual studio 2010\Projects\cookies_example\cookies_example\bin\cookies_example.pdb
+c:\users\sshab\onedrive\documents\visual studio 2010\Projects\cookies_example\cookies_example\obj\Debug\cookies_example.dll
+c:\users\sshab\onedrive\documents\visual studio 2010\Projects\cookies_example\cookies_example\obj\Debug\cookies_example.pdb
+C:\Users\sshab\OneDrive\Documents\Visual Studio 2010\Projects\cookies_example\cookies_example\obj\Debug\cookies_example.csprojResolveAssemblyReference.cache

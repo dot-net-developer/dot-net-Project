@@ -1,0 +1,4 @@
+c:\users\sshab\onedrive\documents\visual studio 2010\Projects\demo\demo\bin\demo.dll
+c:\users\sshab\onedrive\documents\visual studio 2010\Projects\demo\demo\bin\demo.pdb
+c:\users\sshab\onedrive\documents\visual studio 2010\Projects\demo\demo\obj\Debug\demo.dll
+c:\users\sshab\onedrive\documents\visual studio 2010\Projects\demo\demo\obj\Debug\demo.pdb

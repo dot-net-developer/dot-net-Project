@@ -1,0 +1,5 @@
+c:\users\sshab\onedrive\documents\visual studio 2010\Projects\Cart\Cart\bin\Cart.dll
+c:\users\sshab\onedrive\documents\visual studio 2010\Projects\Cart\Cart\bin\Cart.pdb
+c:\users\sshab\onedrive\documents\visual studio 2010\Projects\Cart\Cart\obj\Debug\Cart.dll
+c:\users\sshab\onedrive\documents\visual studio 2010\Projects\Cart\Cart\obj\Debug\Cart.pdb
+C:\Users\sshab\onedrive\documents\visual studio 2010\Projects\Cart\Cart\obj\Debug\Cart.csprojResolveAssemblyReference.cache

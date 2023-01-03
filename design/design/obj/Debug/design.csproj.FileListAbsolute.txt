@@ -1,0 +1,4 @@
+c:\users\sshab\onedrive\documents\visual studio 2010\Projects\design\design\bin\design.dll
+c:\users\sshab\onedrive\documents\visual studio 2010\Projects\design\design\bin\design.pdb
+c:\users\sshab\onedrive\documents\visual studio 2010\Projects\design\design\obj\Debug\design.dll
+c:\users\sshab\onedrive\documents\visual studio 2010\Projects\design\design\obj\Debug\design.pdb

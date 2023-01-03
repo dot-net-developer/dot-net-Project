@@ -1,0 +1,5 @@
+c:\users\sshab\onedrive\documents\visual studio 2010\Projects\globalexa\globalexa\bin\globalexa.dll
+c:\users\sshab\onedrive\documents\visual studio 2010\Projects\globalexa\globalexa\bin\globalexa.pdb
+c:\users\sshab\onedrive\documents\visual studio 2010\Projects\globalexa\globalexa\obj\Debug\globalexa.dll
+c:\users\sshab\onedrive\documents\visual studio 2010\Projects\globalexa\globalexa\obj\Debug\globalexa.pdb
+C:\Users\sshab\OneDrive\Documents\Visual Studio 2010\Projects\globalexa\globalexa\obj\Debug\globalexa.csprojResolveAssemblyReference.cache
